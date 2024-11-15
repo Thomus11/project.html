@@ -1,0 +1,20 @@
+p{
+    color:black;
+    font-weight: lighter;
+}
+
+.red-text {
+    color:red;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+h1{
+    border-color: black;
+    border-width: 50pix;
+    border-style: solid;
+    text-align: center;
+}
+
+#p1{
+    color:black;
+}
